@@ -1,7 +1,7 @@
 COLORETTO
 
 DESCRIPCION DEL PROYECTO
-Este proyecto implementa el juego **Coloretto** en lenguaje **C++**, aplicando **programacion orientada a objetos (POO)** y **uso de memoria dinamica**.  
+Este proyecto implementa el juego **Coloretto** en lenguaje **C++**, aplicando **uso de memoria dinamica**.  
 El objetivo principal es modelar la logica del juego de cartas de manera estructurada, con clases y funciones que representen el flujo real del juego.
 
 El programa permite que entre **3 y 5 jugadores** participen, gestionando:
