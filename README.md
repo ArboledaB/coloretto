@@ -1,6 +1,6 @@
-# COLORETTO
+COLORETTO
 
-## DESCRIPCION DEL PROYECTO
+DESCRIPCION DEL PROYECTO
 Este proyecto implementa el juego **Coloretto** en lenguaje **C++**, aplicando **programacion orientada a objetos (POO)** y **uso de memoria dinamica**.  
 El objetivo principal es modelar la logica del juego de cartas de manera estructurada, con clases y funciones que representen el flujo real del juego.
 
@@ -13,14 +13,14 @@ El programa permite que entre **3 y 5 jugadores** participen, gestionando:
 
 ---
 
-## OBJETIVO ACADEMICO
+OBJETIVO
 Este proyecto tiene como proposito:
 - Implementar **memoria dinamica** para la creacion y manejo de objetos.
-- Estructurar el codigo en archivos `.h` y `.cpp` para un diseño profesional y escalable.
+- Estructurar el codigo en archivos `.h` y `.cpp` para un diseño escalable.
 
 ---
 
-## ESTRUCTURA DEL PROYECTO
+ESTRUCTURA DEL PROYECTO
 
 ```
 
@@ -43,7 +43,7 @@ coloretto/
 
 ---
 
-## COMO COMPILAR (MSVC – Developer Command Prompt)
+COMO COMPILAR
 
 1. Abre **Developer Command Prompt for VS Insiders**.
 2. Cambia el directorio al proyecto:
@@ -55,8 +55,7 @@ coloretto/
    coloretto.exe
 
 ---
-
-## REGLAS BASICAS DEL JUEGO
+REGLAS BASICAS DEL JUEGO
 
 1. Cada jugador, en su turno, puede:
 
@@ -73,7 +72,7 @@ coloretto/
 
 ---
 
-## CALCULO DEL PUNTAJE
+CALCULO DEL PUNTAJE
 
 | Cantidad de cartas del mismo color | Puntos |
 | ---------------------------------: | :----: |
@@ -89,7 +88,7 @@ coloretto/
 
 ---
 
-## USO DE MEMORIA DINAMICA
+USO DE MEMORIA DINAMICA
 
 * Los jugadores se crean de manera **dinamica** dentro de la clase `Juego`:
 
@@ -106,8 +105,7 @@ Esto garantiza una gestion correcta de la memoria.
 
 ---
 
-## REQUISITOS TECNICOS
+REQUISITOS
 
 * Compilador compatible con **C++17 o superior**.
 * Entorno de compilacion: **Visual Studio Developer Command Prompt**.
-* Sistema operativo: **Windows 10 o superior**.
